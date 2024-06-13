@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T09:10:46.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Heh2AGt4kXA5bjzhO5vx" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T09:14:45.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ep3cvuz_zft5PWgmYjsU" version="24.3.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="2033" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2323" dy="2203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,11 +310,13 @@
         <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-110" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1040" y="735" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sqmaxUH0f7V7SQ7GUFhZ-113" target="sqmaxUH0f7V7SQ7GUFhZ-1">
+        <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sqmaxUH0f7V7SQ7GUFhZ-186">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="715" as="sourcePoint" />
+            <mxPoint x="625" y="525" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1540" y="690" />
-              <mxPoint x="625" y="690" />
+              <mxPoint x="1540" y="680" />
+              <mxPoint x="625" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -416,6 +418,15 @@
         </mxCell>
         <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-181" value="저장 경로&lt;div&gt;보기&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sqmaxUH0f7V7SQ7GUFhZ-113" target="sqmaxUH0f7V7SQ7GUFhZ-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="810" as="sourcePoint" />
+            <mxPoint x="625" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqmaxUH0f7V7SQ7GUFhZ-186" value="완료 버튼&lt;div&gt;클릭시&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="715" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
